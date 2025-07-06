@@ -1,20 +1,34 @@
-# CV Mankerov Aleksandr
-asdawd as asd awd asd 
-as dawd asd asd a
+#Aleksandr Mankerov 
+###Frontend Developer
 
-asd awd awd
+**Contact**: 
 
-## My CV
-1. Номер 1 
-2. Номер 2 
-3. Номер 3
-***
+* _Phone / Telegram:_ +7-123-456-78-90
+* _Email:_ r.gosling@gmail.com
+* _Discord:_ @alexman52
+
 ---
-*Курсив* _Курсив_ 
 
-**Жирный** __Жирный__ 
+#### Skills
+* HTML, CSS, JS, TS 
+* Team management
+* Customer communications
 
-***Жирный курсив*** ___Жирный курсив___
+---
+
+#### Work Experience
+* **Senior Frontend developer**: 3 years in Google
+* **Middle Frontend developer**: 2 years in Meta
+* **Junior Frontend developer**: 1 year in EPAM
+
+---
+
+#### Education:
+* Masters degree in Mechanical engineering.
+* **Top 5%** of RS School Advanced Frontend course students.
+
+
+---
 
 ```
 $a = 5; 
