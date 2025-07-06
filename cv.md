@@ -2,7 +2,6 @@
 
 ### Frontend Developer
 
-My photo:
 ![My photo](my_photo.jpg)
 **Contact**: 
 
