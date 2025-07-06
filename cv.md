@@ -37,8 +37,9 @@
 
 #### Language:
 
-* Russian: Native
-* English: B2/C1, daily business communications with the customer and multinational team, including business trips on-site in Belgium
+* Russian: Native 
+
+* English: B2, daily business communications with the customer and multinational team, including business trips on-site in Belgium
 
 ---
 
