@@ -1,9 +1,9 @@
 
 
-#Aleksandr Mankerov 
+# Aleksandr Mankerov 
 
 
-###Frontend Developer
+### Frontend Developer
 
 
 ![My photo](my_photo.jpg)
