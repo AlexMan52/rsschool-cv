@@ -1,11 +1,12 @@
 #Aleksandr Mankerov 
 ###Frontend Developer
-
+![My photo](my_photo.jpg)
 **Contact**: 
 
 * _Phone / Telegram:_ +7-123-456-78-90
 * _Email:_ r.gosling@gmail.com
 * _Discord:_ @alexman52
+* _Site:_ [google.com](https://www.google.com/)
 
 ---
 
@@ -41,44 +42,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Code example:
 ```
-$a = 5; 
-$b = 3; 
-$c = $a + $b; 
-``` 
-
-`echo $c;`
-
->"To be or not to be" Jason Stathem
-
-* asdas
-
-\* asdawd
-
-[RS School Task #1](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/cv/git-markdown.md)
-
-To turn a URL or email address into a clickable link, enclose it in angle brackets <URL or email>.
-
-<https://www.codecademy.com/resources/docs>
-
-[My email](demoemail@hotmail.com) 
-
-My photo:
-
-![My photo](my_photo.jpg)
-
-Table:
-
-| 1st Column | 2nd Column | 3rd Column
-|:-----------|:----------:|---:
-| asdasd     | asd asd as | asdasdaa
-
-
-
-## My CV
-* Элемент списка 1 
-* Элемент списка 2 
-    + Элемент второго уровня списка 1 
-    + Элемент второго уровня списка 2 
-        - Элемент третьего уровня списка 1 
-        - Элемент третьего уровня списка 2 
-        - Элемент третьего уровня списка 3
+def boolean_to_string(b):
+    return str(b)
+```
