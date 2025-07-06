@@ -1,11 +1,8 @@
+Aleksandr Mankerov 
 
+Frontend Developer
 
-# Aleksandr Mankerov 
-
-
-### Frontend Developer
-
-
+Photo:
 ![My photo](my_photo.jpg)
 **Contact**: 
 
